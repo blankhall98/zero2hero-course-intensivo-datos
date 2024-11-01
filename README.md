@@ -16,7 +16,7 @@ Este repositorio contiene los siguientes archivos y carpetas:
 
 1. **Clona el repositorio**: Para comenzar, clona este repositorio en tu computadora usando el siguiente comando:
     ```bash
-    git clone https://github.com/tu-usuario/curso-intensivo-python.git
+    git clone https://github.com/blankhall98/zero2hero-course-intensivo-datos.git
     ```
 
 2. **Explora los archivos Python**: Revisa los archivos `app.py`, `ejemplo1.py` y `ejemplo2.py` para familiarizarte con los temas que se cubrirán. Estos contienen ejemplos prácticos y aplicaciones que repasaremos en el curso.
