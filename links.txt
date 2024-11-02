@@ -2,3 +2,27 @@ VIDEOS DEL CURSO INTENSIVO DE MANEJO DE DATOS CON PYTHON
 
 * CURSO INTENSIVO DE MANEJO DE DATOS CON PYTHON - Sesión de Clase
 Link: https://youtu.be/f4wFQkyo7LU
+
+* Diccionarios en Python - Desde Cero
+Link: https://youtu.be/SjgB6aHwwDQ
+
+* Manejo de Bases de Datos desde Python - Pandas
+Link: https://youtu.be/rWoLWvh4Jk0
+
+* Pandas desde Cero
+Link: https://youtu.be/h9nVlphzZk4
+
+* Python desde Cero
+Link: https://youtu.be/rQJHyJlsqV0
+
+* La Mejor Estructura para un Proyecto de Programación en Python
+Link: https://youtu.be/4bPclJNFSEA
+
+* Git & GitHub en 10 Minutos - desde cero
+Link: https://youtu.be/6vuyE-2-zDk
+
+* SQL desde Python - Crea una CRUD APP
+Link: https://youtu.be/skWcaA7QIdA
+
+* Curso SQL + Python - Comandos Básicos - Clase 02
+Link: https://youtu.be/A42qmBK4c9o
